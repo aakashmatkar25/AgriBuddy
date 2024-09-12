@@ -1,7 +1,5 @@
 # Agribranch
 
-![Agribranch](https://github.com/alhussain-shaikh/Agribranch/assets/116242196/eeaad6c6-712a-43ee-b038-1e55131a5274)
-
 An application for Farmers to recommend them the best types of crops which can be cultivated on a certain piece of land using Soil Image. 
 
 The field of precision agriculture has been advancing rapidly in recent years, with the increasing availability of data from sensors, drones, and satellites. One important aspect of precision agriculture is crop recommendation, which involves suggesting the best crops to plant in a particular area based on soil and weather conditions. 
